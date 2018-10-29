@@ -23,7 +23,7 @@ mais informações [no steemit](https://steemit.com/crypto/@daan/find-jobs-that-
 * [XBTFreelancer](https://www.xbtfreelancer.com/projects)
 
 
-## outras fontes
+## outras fontess
 
 * [Guia do Trabalho Remoto](https://guiadotrabalhoremoto.com)
 
