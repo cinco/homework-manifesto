@@ -23,14 +23,14 @@ mais informações [no steemit](https://steemit.com/crypto/@daan/find-jobs-that-
 * [XBTFreelancer](https://www.xbtfreelancer.com/projects)
 
 
-## outras fontess
+## outras fontes
 
 * [Guia do Trabalho Remoto](https://guiadotrabalhoremoto.com)
 
 
 ### empresas estrangeiras que contratam para trabalho remoto no Brasil
 
-Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs).
+forked from [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil).
 
 ## Brazilian companies that hire to work remotely:
 
